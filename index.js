@@ -1,1 +1,3 @@
-console.log("Jussi");
+console.log("a");
+console.log("b");
+console.log("c");
